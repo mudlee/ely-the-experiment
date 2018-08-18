@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Building
+  - GroundDetailCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3928817207
+    locked: 0
+  - name: GroundDetail
+    uniqueID: 2200158397
+    locked: 0
+  - name: GroundDetailCollider
+    uniqueID: 1032080073
+    locked: 0
+  - name: NPC
+    uniqueID: 1218407647
+    locked: 0
+  - name: GroundDetailFront
+    uniqueID: 963610279
+    locked: 0
+  - name: Building
+    uniqueID: 3482752359
+    locked: 0
+  - name: BuildingDetail
+    uniqueID: 3805777193
+    locked: 0
+  - name: Lamp
+    uniqueID: 1349565485
+    locked: 0
